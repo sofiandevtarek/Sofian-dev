@@ -1,0 +1,30 @@
+.navbar {
+  box-shadow: 1px 1px 5px #aaa9a9;
+  background-color: #ffffff;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+}
+
+.navbar-brand {
+  font-family: "Lobster", sans-serif;
+  font-size: 40px;
+  color: red;
+}
+
+#link {
+  font-weight: bold;
+}
+
+.navbar-toggler,
+.navbar-toggler:focus {
+  outline: none;
+  border: none;
+  box-shadow: none;
+  background: transparent;
+}
+
+.fa-bars {
+  font-size: 25px;
+}
