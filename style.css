@@ -46,8 +46,8 @@ body {
 
 #about {
   text-align: center;
-  margin-top: 200px;
-  padding: 200px;
+  margin-top: 100px;
+  padding-top:  90px;
 }
 
 .about-title {
@@ -61,7 +61,7 @@ body {
 
 #skills {
   text-align: center;
-  margin-top: 150px;
+  margin-top: 300px;
   padding: 100px;
   background-color: #033B4A;
   color: white;
