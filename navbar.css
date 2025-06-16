@@ -1,10 +1,6 @@
 .navbar {
   box-shadow: 1px 1px 5px #aaa9a9;
   background-color: #ffffff;
-  position: fixed;
-  left: 0;
-  right: 0;
-  top: 0;
 }
 
 .navbar-brand {
